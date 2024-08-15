@@ -1,0 +1,55 @@
+{
+  "heading": "Questions and Answers",
+  "topics": [
+    {
+      "heading": "The Hound of the Baskervilles - Part 3 Questions",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Who said the following words and to whom?\nIt helped us to realize the horror of this woman’s life when we saw the eagerness and joy with which she laid us on her husband’s track.",
+          "options": [
+            "Sir Henry to Dr. Mortimer",
+            "Sir Henry to Frankland",
+            "Lestrade to Jack Stapleton",
+            "Watson to the readers"
+          ],
+          "answer": 3,
+          "explanation": "Dr. Watson is the narrator of the story. And the quoted words denote the observation about Mrs. Stapleton. 'Us' refers to Dr. Watson himself, Holmes, and Lestrade together. They all had set out for the old tin mine where Stapleton was expected to be found."
+        },
+        {
+          "questionNo": 2,
+          "question": "What is the meaning of “Quagmire”?",
+          "options": [
+            "Marshy land",
+            "A small barren island",
+            "a soft boggy area of land that gives way underfoot.",
+            "None of the above"
+          ],
+          "answer": 2,
+          "explanation": "This question is self-explanatory."
+        },
+        {
+          "questionNo": 3,
+          "question": "What was Jack Stapleton’s refuge in case of a crisis according to Mrs. Stapleton?",
+          "options": [
+            "an old iron mine on an island in the heart of the mire",
+            "A rugged cobalt mine on an island in the heart of the mire",
+            "an old tin mine on an island at the end of the mire",
+            "an old tin mine on an island in the heart of the mire"
+          ],
+          "answer": 3,
+          "explanation": "There is but one place where he could have fled,” she answered. “There is an old tin mine on an island in the heart of the mire. It was there that he kept his hound and there also he had made preparations so that he might have a refuge."
+        },
+        {
+          "questionNo": 4,
+          "question": "Where was Lestrade after the interaction with Mrs. Stapleton?",
+          "options": [
+            "He left for the Baskerville Hall with Holmes",
+            "He stayed back at the Merripit House with Dr. Watson",
+            "He went towards the Grimpen Mire",
+            "None of the above"
+          ],
+          "answer": 3,
+          "explanation": "Meanwhile we left Lestrade in possession of the house while Holmes and I went back with the baronet to Baskerville Hall."
+        }
+  ]}]}
